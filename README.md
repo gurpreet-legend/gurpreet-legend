@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I like to write and sketch**
 
+
 ## 🎨 Pinned Projects Links:
 | Project Name  | Host link | Source Code |
 | ------------- | ------------- | ------------- |
@@ -25,6 +26,7 @@
 | Losty-s-Library  | `<link>` : <https://gurpreet-legend.github.io/Losty-s-Library/>  | <a href="https://github.com/gurpreet-legend/Losty-s-Library" target="_blank">Click here</a> |
 | Magic-Note  | `<link>` : <https://gurpreet-legend.github.io/Magic-Note/>  | <a href="https://github.com/gurpreet-legend/Magic-Note" target="_blank">Click here</a> |
 | myShop  | `<link>` : <https://gurpreet-legend.github.io/myShop/>  | <a href="https://github.com/gurpreet-legend/myShop" target="_blank">Click here</a> |
+
 
 ## 🚀 Languages and Tools:
 
