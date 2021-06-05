@@ -15,7 +15,7 @@
 - 📫 How to reach me **lostlegend2701@gmail.com**
 
 - ⚡ Fun fact **I like to write and sketch**
-
+<br/>
 
 ## 🎨 Pinned Projects Links:
 | Project Name  | Host link | Source Code |
@@ -26,7 +26,7 @@
 | Losty-s-Library  | `<link>` : <https://gurpreet-legend.github.io/Losty-s-Library/>  | <a href="https://github.com/gurpreet-legend/Losty-s-Library" target="_blank">Click here</a> |
 | Magic-Note  | `<link>` : <https://gurpreet-legend.github.io/Magic-Note/>  | <a href="https://github.com/gurpreet-legend/Magic-Note" target="_blank">Click here</a> |
 | myShop  | `<link>` : <https://gurpreet-legend.github.io/myShop/>  | <a href="https://github.com/gurpreet-legend/myShop" target="_blank">Click here</a> |
-
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -53,6 +53,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br/>
 
 ## 📊 My Github Stats
 
@@ -68,7 +69,6 @@
 
 <a href="https://github.com/gurpreet-legend/github-readme-activity-graph"><img alt="Gurpreet Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurpreet-legend&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me:
