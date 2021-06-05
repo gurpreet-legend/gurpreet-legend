@@ -16,6 +16,16 @@
 
 - ⚡ Fun fact **I like to write and sketch**
 
+## 🎨 Pinned Projects Links:
+| Project Name  | Host link | Source Code |
+| ------------- | ------------- | ------------- |
+| Snake-Game  | `<link>` : <https://gurpreet-legend.github.io/Snake-Game/>  | <a href="https://github.com/gurpreet-legend/Snake-Game" target="_blank">Click here</a> |
+| Lost-Dictionary  |`<link>` : <https://gurpreet-legend.github.io/Lost-Dictionary/>  | <a href="https://github.com/gurpreet-legend/Lost-Dictionary" target="_blank">Click here</a> |
+| Gradient-Generator  | `<link>` : <https://gurpreet-legend.github.io/Gradient-Generator/>  | <a href="https://github.com/gurpreet-legend/Gradient-Generator" target="_blank">Click here</a> |
+| Losty-s-Library  | `<link>` : <https://gurpreet-legend.github.io/Losty-s-Library/>  | <a href="https://github.com/gurpreet-legend/Losty-s-Library" target="_blank">Click here</a> |
+| Magic-Notes  | `<link>` : <https://gurpreet-legend.github.io/Magic-Notes/>  | <a href="https://github.com/gurpreet-legend/Magic-Notes" target="_blank">Click here</a> |
+| myShop  | `<link>` : <https://gurpreet-legend.github.io/myShop/>  | <a href="https://github.com/gurpreet-legend/myShop" target="_blank">Click here</a> |
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
