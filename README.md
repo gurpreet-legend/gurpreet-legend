@@ -71,17 +71,19 @@
 
 <br/>
 
-## Connect with me:
-<p>
+<h2 align="center">Connect with me:</h2>
 
+<p align="center">
 <a href = "https://www.linkedin.com/in/gurpreet-singh-chopra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Gurpreet_legend"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
 
-## ❤ Views and Followers
+<h2 align="center">❤ Views and Followers</h2>
+
+<p align="center">
 <a href="https://github.com/gurpreet-legend/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gurpreet-legend">
 </a>
 <a href="https://github.com/gurpreet-legend?tab=followers"><img src="https://img.shields.io/github/followers/gurpreet-legend?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
