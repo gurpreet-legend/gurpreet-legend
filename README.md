@@ -31,6 +31,9 @@
 
 ### 👨‍💻 Where I spent time on this weekend
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 🚀 Languages and Tools:
