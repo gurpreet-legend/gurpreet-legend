@@ -1,14 +1,15 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="border-radius: 100px" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gurpreet</h1>
-<h3 align="center">A WebDev Enthusiast from India</h3>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gurpreet</h1>
+<h3 align="left">A WebDev Enthusiast from India</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **News Website**
+- 🔭 I’m currently working on **Face detection App**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Hooks**
 
 <!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/gurpreet-legend)**-->
 
