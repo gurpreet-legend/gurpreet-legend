@@ -23,13 +23,11 @@
 </a>
 <a href="https://github.com/gurpreet-legend?tab=followers"><img src="https://img.shields.io/github/followers/gurpreet-legend?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-<br/>
 
 
 ### 🎶 Vibing to
 <!-- [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5vTxa1a62jnLalLrjs7OvB) -->
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
-<br/>
 
 ## 👨‍💻 Where I spent time on this weekend
 <!--START_SECTION:waka-->
@@ -55,15 +53,12 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 </p>
 
-<br/>
-
 ### 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gurpreet Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=onedark&hide_border=true&background=0D1117"/>
     </a>
 </p>
-<br/>
 
 <!--   <br/>
     <a href="https://github.com/gurpreet-legend/github-readme-stats"><img alt="Gurpreet Singh's github stats" src="https://github-readme-stats.vercel.app/api?username=gurpreet-legend&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
