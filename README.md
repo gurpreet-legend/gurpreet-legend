@@ -5,7 +5,7 @@
 <h3 align="left">A WebDev Enthusiast from India</h3>
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Face detection App**
 
@@ -16,21 +16,26 @@
 - 📫 How to reach me **lostlegend2701@gmail.com**
 
 - ⚡ Fun fact **I like to write and sketch**
+
+<p align="left">
+<a href="https://github.com/gurpreet-legend/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=gurpreet-legend">
+</a>
+<a href="https://github.com/gurpreet-legend?tab=followers"><img src="https://img.shields.io/github/followers/gurpreet-legend?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 <br/>
 
-## 🎨 Pinned Projects Links:
-| Project Name  | Host link | Source Code |
-| ------------- | ------------- | ------------- |
-| Pokedex  | `<link>` : <https://gurpreet-legend.github.io/Pokedex/>  | <a href="https://github.com/gurpreet-legend/Pokedex" target="_blank">Click here</a> |
-| Snake-Game  | `<link>` : <https://gurpreet-legend.github.io/Snake-Game/>  | <a href="https://github.com/gurpreet-legend/Snake-Game" target="_blank">Click here</a> |
-| Lost-Dictionary  |`<link>` : <https://gurpreet-legend.github.io/Lost-Dictionary/>  | <a href="https://github.com/gurpreet-legend/Lost-Dictionary" target="_blank">Click here</a> |
-| Random-Gradient-Generator  | `<link>` : <https://gurpreet-legend.github.io/Random-Gradient-Generator/>  | <a href="https://github.com/gurpreet-legend/Random-Gradient-Generator" target="_blank">Click here</a> |
-| Losty-s-Library  | `<link>` : <https://gurpreet-legend.github.io/Losty-s-Library/>  | <a href="https://github.com/gurpreet-legend/Losty-s-Library" target="_blank">Click here</a> |
-| Magic-Note  | `<link>` : <https://gurpreet-legend.github.io/Magic-Note/>  | <a href="https://github.com/gurpreet-legend/Magic-Note" target="_blank">Click here</a> |
-| myShop  | `<link>` : <https://gurpreet-legend.github.io/myShop/>  | <a href="https://github.com/gurpreet-legend/myShop" target="_blank">Click here</a> |
+
+### 🎶 Vibing to
+<!-- [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5vTxa1a62jnLalLrjs7OvB) -->
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
 <br/>
 
-## 🚀 Languages and Tools:
+## 👨‍💻 Where I spent time on this weekend
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -48,23 +53,19 @@
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
-    
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+### 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gurpreet Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=onedark&hide_border=true&background=0D1117"/>
     </a>
 </p>
 <br/>
 
-## 📊 My Github Stats
-
-  <br/>
+<!--   <br/>
     <a href="https://github.com/gurpreet-legend/github-readme-stats"><img alt="Gurpreet Singh's github stats" src="https://github-readme-stats.vercel.app/api?username=gurpreet-legend&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/gurpreet-legend/github-readme-stats"><img alt="Gurpreet Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -76,21 +77,11 @@
 
 <a href="https://github.com/gurpreet-legend/github-readme-activity-graph"><img alt="Gurpreet Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurpreet-legend&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<br/> -->
 
-<h2 align="left">Connect with me:</h2>
-
+## 📬 Reach me out
 <p align="left">
 <a href = "https://www.linkedin.com/in/gurpreet-singh-chopra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Gurpreet_legend"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-<h2 align="left">❤ Views and Followers</h2>
-
-<p align="left">
-<a href="https://github.com/gurpreet-legend/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gurpreet-legend">
-</a>
-<a href="https://github.com/gurpreet-legend?tab=followers"><img src="https://img.shields.io/github/followers/gurpreet-legend?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
