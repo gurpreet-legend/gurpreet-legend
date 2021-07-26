@@ -29,7 +29,7 @@
 <!-- [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5vTxa1a62jnLalLrjs7OvB) -->
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
 
-## 👨‍💻 Where I spent time on this weekend
+### 👨‍💻 Where I spent time on this weekend
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
