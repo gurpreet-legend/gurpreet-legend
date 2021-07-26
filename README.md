@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **Hooks**
 
-<!--- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/gurpreet-legend)**-->
+- 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
 - 📫 How to reach me **lostlegend2701@gmail.com**
 
 - ⚡ Fun fact **I like to write and sketch**
+
+- 🤝  I would love to interact with you, on any topic you want. Let's meet **[here](https://calendly.com/gurpreetsinghh/30min)**
 
 <p align="left">
 <a href="https://github.com/gurpreet-legend/github-profile-views-counter">
@@ -26,7 +28,6 @@
 
 
 ### 🎶 Vibing to
-<!-- [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/playlist/5vTxa1a62jnLalLrjs7OvB) -->
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
 
 ### 👨‍💻 Where I spent time on this weekend
