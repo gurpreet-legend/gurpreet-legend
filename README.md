@@ -33,7 +33,7 @@
 ### 👨‍💻 Where I spent time on this weekend
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   9 mins          ████████████████████████▓   98.13 % 
 ```
 <!--END_SECTION:waka-->
 
