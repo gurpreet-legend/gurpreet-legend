@@ -5,7 +5,7 @@
 <h3 align="left">A WebDev Enthusiast from India</h3>
 
 
-### 🙋‍♂️ About M
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Face detection App**
 
