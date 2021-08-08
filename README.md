@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Face detection App**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **OOPs**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
