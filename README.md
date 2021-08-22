@@ -33,7 +33,7 @@
 ### 👨‍💻 Where I spent time on this weekend
 <!--START_SECTION:waka-->
 ```text
-TeX            2 mins          █████████████████▒░░░░░░░   69.15 % 
+
 ```
 <!--END_SECTION:waka-->
 
