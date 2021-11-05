@@ -64,7 +64,9 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
+    <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    
 </p>
 
 ### 📊 My Github Stats
