@@ -7,9 +7,9 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Face detection App**
+- 🔭 I’m currently working on **Blogging website**
 
-- 🌱 I’m currently learning **OOPS**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
