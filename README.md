@@ -50,6 +50,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"/> </a>
     <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50px" height="50px"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" width="50px" height="50px"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/> </a> 
@@ -66,6 +67,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" height="50px" /> </a>
     <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    
     
 </p>
 
