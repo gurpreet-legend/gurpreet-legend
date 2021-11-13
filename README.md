@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blogging website**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Tailwind, GraphQL, GraphCMS**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
