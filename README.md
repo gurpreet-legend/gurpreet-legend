@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gurpreet</h1>
-<h3 align="left">A WebDev Enthusiast from India</h3>
+<h3 align="left">A WebDev Enthusiast based in India</h3>
 
 
 ### 🙋‍♂️ About Me
