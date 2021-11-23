@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I like to write and sketch**
 
-- 🤝  I would love to interact with you, on any topic you want. Let's meet **[here](https://calendly.com/gurpreetsinghh/30min)**
+- 🤝  I would love to interact with you, on any topic you want. Let's meet **[here](https://calendly.com/gurpreetsinghh/15min)**
 
 <p align="left">
 <a href="https://github.com/gurpreet-legend/github-profile-views-counter">
