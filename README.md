@@ -7,9 +7,9 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Blogging website**
+- 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **Next.js, Tailwind, GraphQL, GraphCMS**
+- 🌱 I’m currently learning **DevOps and Blockchain**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
