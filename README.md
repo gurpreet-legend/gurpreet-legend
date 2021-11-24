@@ -59,6 +59,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/> </a> 
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px"/> </a> 
     <a href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px" /> </a>
+    <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/0f0c764465ee27178b94e026f6d6eafd9c23c09d/logo/logomark-colored.svg" width="50px" height="50px" rounded-corners/> </a>
     <a href="https://www.radix-ui.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" width="50px" height="50px" /> </a>    
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" height="50px"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50px" height="50px"/> </a>
