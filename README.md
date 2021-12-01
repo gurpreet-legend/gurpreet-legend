@@ -1,5 +1,6 @@
 <!-- <img align="center" alt="image" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="border-radius: 100px" /> -->
-<a href="https://gurpreets.vercel.app/" target="_blank">![My banner](https://user-images.githubusercontent.com/75157493/144234844-4b90d783-b640-4e96-be90-56a273e1e549.png)</a>
+<a href="https://gurpreets.vercel.app/" target="_blank">![My banner](https://user-images.githubusercontent.com/75157493/144295597-497bb50f-8310-40e8-9c3c-ef4c7d0d7514.png)</a>
+
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gurpreet</h1>
