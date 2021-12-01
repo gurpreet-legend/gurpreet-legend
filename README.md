@@ -6,6 +6,7 @@
 <h3 align="left">A WebDev Enthusiast based in India</h3>
 
 
+<!-- <a href="https://app.daily.dev/gurpreet_legend"><img align="right" src="https://api.daily.dev/devcards/316b95e8f8844d658917cbedee0a9567.png?r=y21" width="250" alt="Gurpreet Singh's Dev Card"/></a> -->
 ### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Portfolio website**
@@ -19,6 +20,7 @@
 - ⚡ Fun fact **I like to write and sketch**
 
 - 🤝  I would love to interact with you, on any topic you want. Let's meet **[here](https://calendly.com/gurpreetsinghh/15min)**
+
 
 <p align="left">
 <a href="https://github.com/gurpreet-legend/github-profile-views-counter">
