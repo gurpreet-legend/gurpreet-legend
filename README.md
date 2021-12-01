@@ -88,9 +88,12 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 ### 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gurpreet Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=onedark&hide_border=true&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gurpreet Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=highcontrast&hide_border=true&background=0D1117"/>
     </a>
 </p>
+
+<a href="https://github.com/kailash360/github-readme-activity-graph"><img alt="Gurpreet Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurpreet-legend&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
+
 
 <!--   <br/>
     <a href="https://github.com/gurpreet-legend/github-readme-stats"><img alt="Gurpreet Singh's github stats" src="https://github-readme-stats.vercel.app/api?username=gurpreet-legend&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
