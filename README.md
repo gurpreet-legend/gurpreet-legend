@@ -82,6 +82,8 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="50px" height="50px"/> </a>
     <a href="https://vercel.com/" target="_blank"> <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" width="50px" height="50px"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://vitejs.dev/" target="_blank"> <img width="50px" height="50px" src="https://vitejs.dev/logo.svg" alt="Vite logo"> </a>
+
     
     
 </p>
