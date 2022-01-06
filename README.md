@@ -84,6 +84,8 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://vitejs.dev/" target="_blank"> <img width="50px" height="50px" src="https://vitejs.dev/logo.svg" alt="Vite logo"> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" height="50px"/> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px"/> </a>
+    
     
 
     
