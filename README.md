@@ -1,5 +1,5 @@
 <!-- <img align="center" alt="image" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="border-radius: 100px" /> -->
-<a href="https://gurpreets.vercel.app/" target="_blank">![My banner](https://user-images.githubusercontent.com/75157493/144295597-497bb50f-8310-40e8-9c3c-ef4c7d0d7514.png)</a>
+<a href="gurpreetsingh.me" target="_blank">![My banner](https://user-images.githubusercontent.com/75157493/144295597-497bb50f-8310-40e8-9c3c-ef4c7d0d7514.png)</a>
 
 
 
