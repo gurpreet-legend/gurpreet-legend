@@ -10,9 +10,9 @@
 <!-- <a href="https://app.daily.dev/gurpreet_legend"><img align="right" src="https://api.daily.dev/devcards/316b95e8f8844d658917cbedee0a9567.png?r=y21" width="250" alt="Gurpreet Singh's Dev Card"/></a> -->
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **my Blog**
 
-- 🌱 I’m currently learning **DevOps and Blockchain**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
