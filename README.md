@@ -87,7 +87,9 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" height="50px"/> </a>
     <a href="https://docusaurus.io/" target="_blank"> <img src="https://api.iconify.design/logos/docusaurus.svg" width="50px" height="50px" /> </a>
     <a href="https://docs.soliditylang.org/en/v0.8.11/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="50px" height="50px"/> </a>
-    <a href=""><img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" width="50px" height="50px"/> </a>
+    <a href="https://trufflesuite.com/ganache/"><img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" width="50px" height="50px"/> </a>
+    <a href="https://trufflesuite.com/"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="50px" height="50px"/> </a>
+    
     
     
 
