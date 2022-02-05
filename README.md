@@ -89,6 +89,9 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://docs.soliditylang.org/en/v0.8.11/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="50px" height="50px"/> </a>
     <a href="https://trufflesuite.com/ganache/"><img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" width="50px" height="50px"/> </a>
     <a href="https://trufflesuite.com/"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="50px" height="50px"/> </a>
+    <a href="https://mochajs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50px" height="50px"/></a>
+    <a href="https://www.chaijs.com/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/chaijs_logo_icon_168435.png" width="50px" height="50px"/></a>
+    
     
     
     
