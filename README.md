@@ -96,6 +96,8 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.icons8.com/officel/80/000000/markdown.png" width="50px" height="50px"/></a>
     <a href="https://github.com/facebook/jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px" height="50px"/></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50px" height="50px"/></a>
+    <a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px"/></a>
+    
     
     
     
