@@ -92,6 +92,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://trufflesuite.com/"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="50px" height="50px"/> </a>
     <a href="https://mochajs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50px" height="50px"/></a>
     <a href="https://www.chaijs.com/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/chaijs_logo_icon_168435.png" width="50px" height="50px"/></a>
+    <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src="https://testing-library.com/img/octopus-128x128.png" width="50px" height="50px"/></a>
     <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.icons8.com/officel/80/000000/markdown.png" width="50px" height="50px"/></a>
     <a href="https://github.com/facebook/jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50px" height="50px"/></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50px" height="50px"/></a>
