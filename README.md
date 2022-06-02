@@ -2,7 +2,7 @@
 <a href="https://gurpreetsingh.me/" target="_blank">![My banner](https://user-images.githubusercontent.com/75157493/160285675-502d8478-d045-4cb4-a1b3-cafddccb776e.png)</a>
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gurpreet</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Gurpreet</h1>
 <h3 align="left">A WebDev Enthusiast based in India</h3>
 
 
