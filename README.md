@@ -37,9 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.36 %
-JavaScript   4 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.20 %
-Other        2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Python       6 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.35 %
+JavaScript   4 hrs 18 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 %
+Solidity     1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+HTML         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
