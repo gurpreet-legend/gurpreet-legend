@@ -37,10 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-JavaScript   1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-JSON         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-Other        50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Other        3 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.65 %
 ```
 
 <!--END_SECTION:waka-->
