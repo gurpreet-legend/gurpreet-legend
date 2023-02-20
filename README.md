@@ -114,7 +114,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 ### 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/gurpreet-legend/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gurpreet Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-legend&theme=highcontrast&hide_border=true&background=0D1117"/>
     </a>
 </p>
