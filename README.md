@@ -119,7 +119,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     </a>
 </p>
 
-<a href="https://github.com/kailash360/github-readme-activity-graph"><img alt="Gurpreet Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurpreet-legend&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/gurpreet-legend/github-readme-activity-graph"><img alt="Gurpreet Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurpreet-legend&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
 
 
 <!--   <br/>
