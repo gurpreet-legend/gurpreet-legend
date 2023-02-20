@@ -119,8 +119,6 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     </a>
 </p>
 
-<a href="https://github.com/gurpreet-legend/github-readme-activity-graph"><img alt="Gurpreet Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurpreet-legend&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
-
 
 <!--   <br/>
     <a href="https://github.com/gurpreet-legend/github-readme-stats"><img alt="Gurpreet Singh's github stats" src="https://github-readme-stats.vercel.app/api?username=gurpreet-legend&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
