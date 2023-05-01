@@ -37,9 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go           14 hrs 15 mins  ██████████████████████░░░   87.78 %
-HTML         1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
