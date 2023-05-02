@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go     3 hrs 25 mins   ████████████████████████░   96.58 %
+HTML   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JSON   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
