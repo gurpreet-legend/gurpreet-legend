@@ -1,8 +1,8 @@
 <!-- <img align="center" alt="image" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="border-radius: 100px" /> -->
-<a href="https://gurpreetsingh.me/" target="_blank">![My banner](https://github.com/gurpreet-legend/gurpreet-legend/assets/75157493/276fd09e-7248-4972-8fd6-f027f49e3c38)</a>
+<a href="https://gurpreetsingh.me/" target="_blank">![My banner](https://github.com/gurpreet-legend/gurpreet-legend/assets/75157493/ba16b352-fc79-418e-9b5d-2519020a25ae)</a>
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Gurpreet</h1>
+<h1 align="left">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" height="35px"/>, I'm Gurpreet</h1>
 <h3 align="left">A WebDev Enthusiast based in India</h3>
 
 
