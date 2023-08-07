@@ -31,7 +31,9 @@
 
 
 ### 🎶 Vibing to
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://gurpreet-spotify-readme.vercel.app/api?theme=dark&scan=true&spin=true" alt="Current Spotify Song">
+</a>
 
 ### 👨‍💻 Where I spent time on this weekend
 <!--START_SECTION:waka-->
