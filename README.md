@@ -137,7 +137,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 ## 📬 Reach me out
 <p align="left">
-<a href = "https://www.linkedin.com/in/gurpreet-singh-chopra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/gurpreetsingh2701"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Gurpreet_legend"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/gurpreet_legend/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
