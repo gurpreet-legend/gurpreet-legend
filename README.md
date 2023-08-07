@@ -1,5 +1,5 @@
 <!-- <img align="center" alt="image" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="border-radius: 100px" /> -->
-<a href="https://gurpreetsingh.me/" target="_blank">![My Banner](https://github.com/gurpreet-legend/gurpreet-legend/assets/75157493/0b4c8f8f-a4a8-44ec-a4f4-d03aa367c704)</a>
+<a href="https://gurpreets.vercel.app" target="_blank"><img src="https://github.com/gurpreet-legend/gurpreet-legend/assets/75157493/0b4c8f8f-a4a8-44ec-a4f4-d03aa367c704" /></a>
 
 
 <h1 align="left">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" height="35px"/>, I'm Gurpreet</h1>
