@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **Golang and Hyperledger Fabric 2.0**
+- 🌱 I’m currently learning **Golang and Kubernetes**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
