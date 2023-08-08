@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="35px" height="35px"/>, I'm Gurpreet</h1>
-<h3 align="left">A Software Developer based in India</h3>
+<h3 align="left">A Software Developer from India</h3>
 
 
 <!-- <a href="https://app.daily.dev/gurpreet_legend"><img align="right" src="https://api.daily.dev/devcards/316b95e8f8844d658917cbedee0a9567.png?r=y21" width="250" alt="Gurpreet Singh's Dev Card"/></a> -->
