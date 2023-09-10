@@ -39,9 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           30 mins         █████████████▒░░░░░░░░░░░   53.44 %
-JavaScript   25 mins         ███████████░░░░░░░░░░░░░░   44.34 %
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
