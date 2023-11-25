@@ -39,7 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 49 mins    ████████████████████████░   95.61 %
+Go       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
