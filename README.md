@@ -9,9 +9,9 @@
 <!-- <a href="https://app.daily.dev/gurpreet_legend"><img align="right" src="https://api.daily.dev/devcards/316b95e8f8844d658917cbedee0a9567.png?r=y21" width="250" alt="Gurpreet Singh's Dev Card"/></a> -->
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Open Source**
+- 🔭 I’m currently working as **SWE Intern @Google**
 
-- 🌱 I’m currently learning **Golang and Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/gurpreet-legend/myProjects)**
 
